@@ -16,6 +16,7 @@ public class BeerServiceImpl implements BeerService {
                 .beerName("Galaxy Cat")
                 .beerStyle("Pale Ale")
                 .build();
+        
     }
 
     @Override
